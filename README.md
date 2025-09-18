@@ -10,7 +10,7 @@
 ---
 
 ## 📫 Contato
-[Instagram](https://instagram.com/gouveiaguilherme12) • [LinkedIn](https://linkedin.com/in/guilherme-gouveia-bb24192b4)
+• [LinkedIn](https://linkedin.com/in/guilherme-gouveia-bb24192b4)
 
 📧 **Email:** gouveiaguilherme12@gmail.com
 
