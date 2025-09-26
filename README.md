@@ -1,5 +1,4 @@
-🎓 **Graduando em Engenharia da Computação – UFPB – 2023.2**    
-🎵 Apaixonado por **Música**   
+🎓 **Graduando em Engenharia da Computação – UFPB – 2023.2**      
 💻 Programador em **Python / C / C++**
 
 ---
