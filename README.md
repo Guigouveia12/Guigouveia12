@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-`C` `C++` `Python` `Git` `Linux`
+`C` `C++` `Python` `Git` `Linux` `SQL`
 
 ---
 
